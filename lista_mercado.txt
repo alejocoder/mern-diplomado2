@@ -1,0 +1,4 @@
+lista:
+1.papa
+2.yuca
+3.leche
